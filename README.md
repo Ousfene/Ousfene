@@ -21,11 +21,11 @@ specialized in AI systems, RAG pipelines, and fullstack development.
 
 | Project | Description | Stack |
 |---|---|---|
-| [AdaptIQ](https://github.com/Ousfene/AdaptIQ) | Adaptive MCQ platform with IRT difficulty engine + RAG LLM tutoring | FastAPI · React · PostgreSQL · Redis · Docker |
-| [RAG Chatbot – Sagemcom](https://github.com/Ousfene/rag-chatbot-sagemcom) | Internal document-aware chatbot with Qwen LLM, citation system, multilingual | Python · RAG · VLM |
-| [PaaS Platform](https://github.com/Ousfene/paas-proxmox) | Self-hosted PaaS provisioning VMs via Proxmox + Terraform | Terraform · Flask · Proxmox |
-| [PPE Detection](https://github.com/Ousfene/ppe-detection) | Construction site safety system using computer vision | PyTorch · TensorFlow · Arduino · Raspberry Pi |
-| [Library Management](https://github.com/Ousfene/library-management) | Full-stack library cataloguing system | React · PHP · MySQL |
+| [AdaptIQ](https://github.com/Ousfene/AdaptIQ) | Adaptive MCQ platform with IRT engine + RAG LLM tutoring | FastAPI · React · PostgreSQL · Redis · Docker |
+| [RAG-Chatbot-Sagemcom](https://github.com/Ousfene/RAG-Chatbot-Sagemcom) | Document-aware chatbot with Qwen LLM and citation system | Python · RAG · FastAPI · React |
+| [PPE-Detection-IoT](https://github.com/Ousfene/PPE-Detection-IoT) | Construction site access control with YOLO + Arduino | Python · YOLOv8 · OpenCV · Arduino · Proteus |
+| [PaaS-Platform](https://github.com/Ousfene/PaaS-Platform) | Self-hosted PaaS deploying apps to Proxmox VMs via Terraform | Flask · Terraform · Proxmox · Bash |
+| [Library-Management-System](https://github.com/Ousfene/Library-Management-System) | Full-stack library app with book search and borrowing system | React · PHP · MySQL |
 
 ## 🏆 Achievements
 
