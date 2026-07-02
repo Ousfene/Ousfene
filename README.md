@@ -16,6 +16,9 @@ specialized in AI systems, RAG pipelines, and fullstack development.
 **Databases:** PostgreSQL · MySQL · MongoDB · Redis  
 **AI/ML:** RAG · LLMs · PyTorch · TensorFlow · Computer Vision  
 **Tools:** Docker · Git · Terraform · Postman · Proxmox  
+**Hardware & IoT:** Arduino · Raspberry Pi · Proteus · Serial Communication  
+**Infrastructure:** Terraform · Proxmox · Linux  
+**Additional:** PHP · MySQL · Computer Vision · YOLO · REST API
 
 ## 🚀 Featured Projects
 
